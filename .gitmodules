@@ -1,0 +1,3 @@
+[submodule "stlpy"]
+	path = stlpy
+	url = git@github.com:kpant14/stlpy.git
